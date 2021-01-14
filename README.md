@@ -19,7 +19,7 @@ yarn install
 ```shell 
   npm run dev
 ```
-- Server listens locally on PORT 5000 - http://localhost:5000
+- Server listens locally on PORT `5000` - http://localhost:5000
  
 ### Live Demo 
 Check out the live demo deployed on heroku https://phase-1-backend.herokuapp.com/
