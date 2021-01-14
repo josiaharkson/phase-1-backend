@@ -21,6 +21,7 @@ yarn install
 ```
 - Server listens locally on PORT 5000 - http://localhost:5000
  
-Live Demo Check out he live demo deployed on heroku
-https://phase-1-backend.herokuapp.com/
+### Live Demo 
+Check out the live demo deployed on heroku https://phase-1-backend.herokuapp.com/
+
   
