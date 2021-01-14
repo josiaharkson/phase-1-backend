@@ -15,10 +15,11 @@ npm install
 or
 yarn install
 ```
-- Run the app in development mode. Open http://localhost:3000 to view it in the browser
+- To run the app in development mode.
 ```shell 
   npm run dev
 ```
+- Server listens locally on PORT 5000 - http://localhost:5000
  
 Live Demo Check out he live demo deployed on heroku
 https://phase-1-backend.herokuapp.com/
