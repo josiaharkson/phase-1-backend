@@ -3,7 +3,7 @@
 
 You can view a live demo over at https://phase-1-backend.herokuapp.com/
 
-To get the frontend running locally:
+To get the app running locally:
 
 - Clone this repo
 ```shell
